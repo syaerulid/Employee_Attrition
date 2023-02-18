@@ -46,7 +46,7 @@ We don't use all this Column / Features to Analyze this Dataset, Instead we use 
 **Note**
 
 Because Library Plotly.Express need Improvement for their Compatibility with Github, some Image produced by Plotly might be small / error
-you can look at the better Plotly Version in here : [Better Version](http://bit.ly/3IIEGMh).
+you can look at the better Plotly Version in here : [Better Version](http://bit.ly/3kfnQLc).
 
 # Modeling
 This dataset is Imbalance Classification Dataset
